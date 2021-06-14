@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/asultan/Desktop/HW3 
+Econtroller
+Z1 w1541414615
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8/home/asultan/Desktop/HW3 /controller.vhd
+Z6 F/home/asultan/Desktop/HW3 /controller.vhd
+l0
+L5
+VU2b[0kTCm:]CJNCCQS15X2
+!s100 M1@T<eO<efKbKMK?m;Bkc2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1541429110
+!i10b 1
+Z9 !s108 1541429110.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/asultan/Desktop/HW3 /controller.vhd|
+Z11 !s107 /home/asultan/Desktop/HW3 /controller.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acontroller_arc
+R2
+R3
+R4
+Z14 DEx4 work 10 controller 0 22 U2b[0kTCm:]CJNCCQS15X2
+l33
+L18
+VZcekeOzglH^nVM[f[KEd42
+!s100 P>bGKKjDN0KjeI]UjYSKQ1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eresolver
+Z15 w1541386171
+R2
+R3
+R4
+R0
+Z16 8/home/asultan/Desktop/HW3 /Resolver.vhd
+Z17 F/home/asultan/Desktop/HW3 /Resolver.vhd
+l0
+L5
+Vn:QB^zhKkP9R<;Rmb]Xzh2
+!s100 PV5XoKN`=`W2]`LiW=Ij<2
+R7
+32
+Z18 !s110 1541412527
+!i10b 1
+Z19 !s108 1541412527.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/asultan/Desktop/HW3 /Resolver.vhd|
+Z21 !s107 /home/asultan/Desktop/HW3 /Resolver.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 8 resolver 0 22 n:QB^zhKkP9R<;Rmb]Xzh2
+l45
+L16
+VM4E_RMlOAYA_ofP;lV50k1
+!s100 QLXd_ij02@kf<mBMYUlDj3
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Eresolver_tb
+Z22 w1541386437
+Z23 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R2
+R3
+R4
+R0
+Z24 8/home/asultan/Desktop/HW3 /Resolver_tb.vhd
+Z25 F/home/asultan/Desktop/HW3 /Resolver_tb.vhd
+l0
+L7
+VN>2Zm0KVJ<BiFMWVI_c]d1
+!s100 8CP9X>JzA0Q_;2SUFXgN`1
+R7
+32
+R18
+!i10b 1
+R19
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/asultan/Desktop/HW3 /Resolver_tb.vhd|
+Z27 !s107 /home/asultan/Desktop/HW3 /Resolver_tb.vhd|
+!i113 1
+R12
+R13
+Aresolver_tb_arc
+R23
+R2
+R3
+R4
+DEx4 work 11 resolver_tb 0 22 N>2Zm0KVJ<BiFMWVI_c]d1
+l47
+L10
+VT`F=V?Kh9;f4lVkdF8EHU2
+!s100 E`NRlm>S5=[IF^P5TTkY]0
+R7
+32
+R18
+!i10b 1
+R19
+R26
+R27
+!i113 1
+R12
+R13
