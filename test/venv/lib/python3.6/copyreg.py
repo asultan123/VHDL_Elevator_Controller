@@ -1,5 +1,0 @@
-XSym
-0074
-a56dd919e6319d53d98a06a58e577f4a
-/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/copyreg.py
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
